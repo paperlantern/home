@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;    
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    margin: 50px;
+}
+
+.post{
+    margin: 0 50px ;
+    text-align: left;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+}
