@@ -154,3 +154,28 @@ img{
 .exHead{
   margin-top: 100px;
 }
+#pride-img{
+  width: 50%;
+}
+.pride_month{
+  margin-top: 5rem;
+}
+
+li {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  
+}
+.pride-head{
+  font-family: 'Montserrat', sans-serif;
+  padding: 1rem;
+}
+.pride-con{
+  font-family: 'Ubuntu', sans-serif;
+  padding: 1rem;
+}
+.pride-back{
+  width: 100%;
+}
